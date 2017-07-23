@@ -1,4 +1,4 @@
-#KnowFlags
+## KnowFlags
 
 Simple guessing game about flags
 
