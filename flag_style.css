@@ -1,0 +1,143 @@
+body {
+
+	font-family: 'Roboto', sans-serif;
+	/* background-color: #68EBD4; */
+	background-color: #B9B0B6;
+	font-size: 15px;
+	
+}
+
+.highlight {
+
+	font-weight: bold;
+}
+
+.choice {
+
+	background-color: #821759;
+	color: white;
+	border: 2px white solid;
+	width: 350px;
+	margin-right: auto;
+	margin-left: auto;
+	cursor: pointer; /* making it clickable */
+}
+
+.choice:hover {
+
+	background-color: #E2461D;
+
+}
+
+#flag_img {
+
+	width: 350px;
+	height: 220px;
+}
+
+.button {
+
+	border: 2px white solid;
+	background-color: #821759;
+	color: white;
+	width: 350px;
+	margin-right: auto;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+.button:hover {
+
+	background-color: #E2461D;
+}
+
+.result_text {
+
+	font-weight: bold;
+	/* color: #0000FF; */
+	/* color: #153911; */
+	color: #E2461D;
+}
+
+.disabled {
+
+	opacity: 0.5;
+	cursor: default;
+}
+
+.disabled:hover {
+
+	background-color: #821759;
+}
+
+#score {
+	display: inline-block;
+	width: 154px;
+	text-align: right;
+}
+
+#home {
+
+	border: 2px white solid;
+	width: 350px;
+	margin-right: auto;
+	margin-left: auto;
+	display: inline-block;
+	background-color: #821759;
+	color: white;
+	cursor: pointer;
+}
+
+#home:hover {
+	background-color: #E2461D;
+}
+
+.space {
+
+	display: inline-block;
+	border: 2px white solid;
+	width: 15px;
+	visibility: hidden;
+}
+
+.correct {
+
+	background-color: #10FF00;
+}
+
+.correct:hover {
+	background-color: #10FF00;
+}
+
+.wrong {
+	background-color: #fd1c03;
+}
+
+.wrong:hover {
+	background-color: #fd1c03;
+}
+
+.vertical-space {
+
+	border: 2px white solid;
+	display: block;
+	height: 15px;
+	visibility: hidden;
+
+}
+
+
+#timer {
+
+	font-weight: bold;
+	display: inline-block;
+	width: 154px;
+	text-align: left;
+}
+
+#middle {
+
+	width: 38px;
+	display: inline-block;
+	color: blue;
+}

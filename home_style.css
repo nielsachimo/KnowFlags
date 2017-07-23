@@ -1,0 +1,37 @@
+body {
+
+	font-family: 'Roboto', sans-serif;
+	/* background-color: #68EBD4; */
+	background-color: #B9B0B6;
+	
+}
+
+img {
+
+	width: 350px;
+	height: 220px;
+}
+
+#header {
+
+	display: block;
+	font-size: 67px;
+	font-weight: bold;
+	color: #032324;
+	font-family: 'Baloo Bhaina', cursive;
+}
+
+.butt {
+
+	border: 2px white solid;
+	width: 175px;
+	display: inline-block;
+	background-color: #821759;
+	color: white;
+	cursor: pointer;
+}
+
+.butt:hover {
+
+	background-color: #E2461D;
+}

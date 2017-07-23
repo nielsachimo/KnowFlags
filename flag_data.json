@@ -1,0 +1,55 @@
+var json = {
+
+	"flags" : [
+
+		{
+
+			"img_url": "flags/mozambique.png",
+
+			"answer": "Mozambique"
+
+		},
+
+		{
+
+			"img_url": "flags/india.png",
+
+			"answer": "India"
+
+		},
+
+		{
+
+			"img_url": "flags/southafrica.png",
+
+			"answer": "South Africa"
+
+		},
+
+		{
+
+			"img_url": "flags/japan.png",
+
+			"answer": "Japan"
+
+		},
+
+		{
+
+			"img_url": "flags/usa.png",
+
+			"answer": "USA"
+
+		},
+
+		{
+
+			"img_url": "flags/uganda.png",
+
+			"answer": "Uganda"
+
+		}
+
+	]
+
+}
